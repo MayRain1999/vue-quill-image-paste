@@ -1,0 +1,14 @@
+{
+  "name": "vue-quill-editon-imagepaste",
+  "version": "1.0.0",
+  "description": "vue-quill plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaoping",
+  "license": "MIT",
+  "dependencies": {
+    "yarn": "^1.22.4"
+  }
+}
